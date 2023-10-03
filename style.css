@@ -35,17 +35,17 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
+    background-color: #2e72a1; /* White */
     color: #555555;
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
+    background-color: #ffffff; /* Blue */
     color: #ffffff;
 }
 
 .card {
-    color: black;
+    color: purple;
     text-align: left;
 }
 
